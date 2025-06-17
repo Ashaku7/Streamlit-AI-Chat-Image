@@ -98,3 +98,7 @@ This project is licensed under the MIT License.
 - Stability AI for providing powerful text-to-image generation models.
 - Streamlit for making web app development simple and fast.
 "# Streamlit-AI-Chat-Image" 
+
+## 🚀 Live Demo
+
+👉 [Click here to try the app](https://app-ai-chat-image-generator.streamlit.app/)
